@@ -1,0 +1,23 @@
+from PIL import Image
+import numpy as np
+import os
+
+def create_pixel_art(prompt, size=(16, 16)):
+    prompt_array = np.array([ord(char) for char in prompt])
+    np.random.seed(prompt_array.sum())
+    pixel_data = np.random.randint(0, 256, (size[0], size[1], 3), dtype=np.uint8)
+    image = Image.fromarray(pixel_data, mode="RGB")
+    return image
+
+# دریافت پرامپت
+prompt = input("لطفاً یک متن وارد کنید: ")
+
+# ایجاد تصویر
+pixel_art = create_pixel_art(prompt)
+
+# ذخیره در مسیر پیش‌فرض برنامه
+output_path = os.path.join(os.getcwd(), "pixel_art.png")
+pixel_art.save(output_path)
+
+print(f"تصویر در مسیر زیر ذخیره شد: {output_path}")
+pixel_art.show()
