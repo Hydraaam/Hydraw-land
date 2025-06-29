@@ -1,5 +1,4 @@
-[ Noob artist-Graphist-Writer-Animator ]
-در تلاش برای یاد گرفتن کد نویسی 
+[ developer ]
 Hydraw links
 
 ﴾telegram﴿
@@ -7,7 +6,7 @@ Hydraw links
 @hydraw_gallery
 
 [Instagram]
-https://www.instagram.com/hydram_bemola?igsh=MzNlNGNkZWQ4Mg==
+https://www.instagram.com/hydraw_official?igsh=Y3luMGhsODY2MWhm
 [Youtube]
 https://www.youtube.com/@minimelonking
 [X]
@@ -16,8 +15,6 @@ https://x.com/Hydraw_hastam?t=hp4DPmLZZP174fWQ8ZQDQw&s=09
 https://www.reddit.com/u/Redninja6700/s/l30Z5kzt8j
 [MCPEDL]
 https://mcpedl.com/user/hydraw/
-[Clover . space]
-https://clover.space/s/u/minimelon
 [Github]
 https://github.com/Hydraaam
 [TON Wallet donation]
